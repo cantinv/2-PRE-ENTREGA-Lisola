@@ -1,0 +1,22 @@
+form{
+    margin: 100px;
+  
+
+    
+}
+h3{
+    color: black;
+    margin: 15px;
+    font-weight: bold;
+    font-size: 35px;
+    
+}
+.btn-primary {
+    background-color: black !important;
+}
+.home{
+    text-decoration: none !important;
+}
+body{
+    font-size: 20px;
+}
